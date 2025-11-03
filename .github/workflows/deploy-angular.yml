@@ -49,3 +49,4 @@ jobs:
           
           # 清理目标目录中多余的文件
           ARGS: "-rltgoDvz --delete"
+          
